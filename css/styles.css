@@ -334,7 +334,7 @@ img{
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
  }
-.card-team:hover .link, .card-team:focus .link {
+.team-item:hover .link, .team-item:focus .link {
     background-color: #404bbf;
 }
 .social-icon{
